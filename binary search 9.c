@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main()
 {
     int c, first, last, middle, n, search, array[100];
@@ -28,4 +29,10 @@ int main()
         printf("Not found! %d is not present in the list.\n", search);
     return 0;
 }
-
+output:
+Enter number of elements
+6
+Enter 6 integers
+1,2,3,4,5,6
+Enter value to find
+0 found at location 3.
