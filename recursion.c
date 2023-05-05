@@ -12,3 +12,6 @@ int main()
 	return 0;
 	
 }
+output:
+Enter the number:12
+Factorial: -521851680
