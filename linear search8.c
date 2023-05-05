@@ -25,3 +25,12 @@ int main()
 	
 	return 0;
 }
+output:
+Enter the no of elements:5
+Enter the elements:1
+5
+11
+13
+6
+Enter the element to search:11
+11 is found at the position 2
